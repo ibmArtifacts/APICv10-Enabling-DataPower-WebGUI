@@ -1,4 +1,4 @@
-# APICv10-Enabling-DataPower-WebGUI-on-OCP  
+# APICv10-Enabling-DataPower-WebGUI
 Note: These instructions should work on k8s as well via kubectl commands.
 #### Asumptions:  
 - The Gateway has been deployed successfully on OCP or k8s either as an APIC component or stand-alone gateway.  
